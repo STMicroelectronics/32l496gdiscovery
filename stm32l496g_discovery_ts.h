@@ -31,6 +31,7 @@ extern "C" {
 
 /* Include TouchScreen component driver */
 #include "../Components/ft6x06/ft6x06.h"
+#include "../Components/ft3x67/ft3x67.h"
 
 /** @addtogroup BSP
   * @{
